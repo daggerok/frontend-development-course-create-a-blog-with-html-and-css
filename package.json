@@ -1,0 +1,19 @@
+{
+  "name": "frontend-development-course-create-a-blog-with-html-and-css",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "gh": "npm run build -- --base=/frontend-development-course-create-a-blog-with-html-and-css/",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "2.8.6",
+    "vite-plugin-webfont-dl": "2.0.0"
+  },
+  "dependencies": {
+    "remixicon": "2.5.0",
+    "swiper": "8.0.7"
+  }
+}
